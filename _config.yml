@@ -27,8 +27,8 @@ nav-menu:
 
 # use false to turn off any social media links
 twitter: https://twitter.com/kawishqayyum
-facebook: https://facebook.com/
-instagram: https://instagram.com/kawishqayyum
+facebook: false
+instagram: false
 github: https://github.com/kawishqayyum
 linkedin: https://linkedin.com/in/kawishqayyum
 medium: false
