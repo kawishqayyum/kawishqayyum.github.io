@@ -20,8 +20,6 @@ show-nav-menu: true
 nav-menu:
   - text: About
     permalink: about
-  - text: Bitcoin
-    permalink: bitcoin
   - text: Blog
     permalink: blog
 
@@ -33,7 +31,7 @@ github: https://github.com/kawishqayyum
 linkedin: https://linkedin.com/in/kawishqayyum
 medium: false
 google-scholar: false
-email: false
+email: kawishqayyum@gmail.com
 
 # footer information
 footer-msg: "Powered by Tailpages"
