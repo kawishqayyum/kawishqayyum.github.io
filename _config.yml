@@ -15,7 +15,7 @@ author-bio: Python Developer # change to false to hide
 author-image: kawish.jpg # file must be in the /assets/img/ folder
 
 # navigation menu
-show-nav-menu: true
+show-nav-menu: false
 
 nav-menu:
   - text: About
