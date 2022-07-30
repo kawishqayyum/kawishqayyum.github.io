@@ -24,11 +24,11 @@ nav-menu:
     permalink: blog
 
 # use false to turn off any social media links
+linkedin: https://linkedin.com/in/kawishqayyum
 twitter: https://twitter.com/kawishqayyum
 facebook: false
 instagram: false
 github: https://github.com/kawishqayyum
-linkedin: https://linkedin.com/in/kawishqayyum
 medium: https://medium.com/@kawishqayyum
 google-scholar: false
 email: mailto:kawishqayyum@gmail.com
