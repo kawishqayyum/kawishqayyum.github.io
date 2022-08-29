@@ -1,5 +1,3 @@
-# Selenium web scraper
-
 Extract tabular data behind authentication using `selenium`, process it, and push it to `snowflake`.
 
 ### Libraries:
